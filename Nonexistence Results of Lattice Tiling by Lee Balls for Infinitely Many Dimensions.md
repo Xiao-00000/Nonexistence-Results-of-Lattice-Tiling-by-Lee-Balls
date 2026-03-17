@@ -2,9 +2,9 @@
 
 ## **Description**
 
-This markdown is used to present the computational results from Chapter 5 of the paper. For each fixed prime *p* and radius *r*, applying the method described in the paper yields a nonexistence conclusion similar to Corollary 1. This conclusion takes the form that when *n* satisfies certain congruence conditions, the corresponding Lee ball lattice tiling does not exist.
+This markdown document presents the computational results detailed in Chapter 5 of the paper. For any fixed prime $p$ and radius $r$, the method described in the paper yields a nonexistence result analogous to Corollary 5.5 or Corollary 5.6. Specifically, this result establishes that the corresponding Lee ball lattice tiling does not exist when $n$ satisfies the specified congruence conditions.
 
-The data will be presented row by row, with each row containing radius *r*, prime *p*  and corresponding congruence condition on *n*. For fixed *r* and *p*, when there is no result, we denote it by N/A.
+The data are presented row by row, where each row lists the radius $r$, prime $p$, and the corresponding congruence condition for $n$. For a given fixed pair of $r$ and $p$, cases with no valid result are denoted as N/A.
 
 ## Data
 
