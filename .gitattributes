@@ -1,3 +1,13 @@
+# .gitattributes 文件内容
+
+# Maple源代码文件
 *.mpl linguist-language=Maple
 *.mw linguist-language=Maple
 *.mws linguist-language=Maple
+
+# 如果Maple不被识别，使用近似语言获得基本高亮
+# *.mpl linguist-language=JavaScript
+# *.mpl linguist-language=Python
+
+# 或者禁用高亮，保持纯文本
+# *.mpl linguist-documentation
