@@ -1,8 +1,0 @@
-# Maple源代码
-*.mpl linguist-language=Python
-*.mw linguist-documentation
-*.mws linguist-documentation
-
-# 排除自动生成的文件
-*.maple.log linguist-generated
-export/ linguist-generated
